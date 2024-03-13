@@ -1,0 +1,85 @@
+{
+  "galaxias": [
+    {
+      "id": 1,
+      "nombre": "Galaxia de Andrómeda",
+      "tipo": "galaxia espiral",
+      "distancia": "2.5 millones de años luz",
+      "magnitud": "3.4",
+      "constelación": "Andrómeda",
+      "imagen": "https://www.istockphoto.com/es/fotos/galaxia-andr%C3%B3meda"
+    },
+    {
+      "id": 2,
+      "nombre": "Vía Láctea",
+      "tipo": "galaxia espiral barrada",
+      "distancia": "0 años luz",
+      "magnitud": "-1",
+      "constelación": "N/A",
+      "imagen": "https://www.istockphoto.com/es/fotos/la-v%C3%ADa-l%C3%A1ctea"
+    },
+    {
+      "id": 3,
+      "nombre": "Galaxia del Triángulo",
+      "tipo": "galaxia espiral",
+      "distancia": "2.9 millones de años luz",
+      "magnitud": "6.3",
+      "constelación": "Triangulum",
+      "imagen": "https://es.wikipedia.org/wiki/Galaxia_del_Tri%C3%A1ngulo"
+    },
+    {
+      "id": 4,
+      "nombre": "Galaxia de Sombrero",
+      "tipo": "galaxia lenticular",
+      "distancia": "29 millones de años luz",
+      "magnitud": "8.4",
+      "constelación": "Virgo",
+      "imagen": "https://es.wikipedia.org/wiki/Galaxia_del_Sombrero"
+    },
+    {
+      "id": 5,
+      "nombre": "Galaxia M87",
+      "tipo": "galaxia elíptica gigante",
+      "distancia": "53.5 millones de años luz",
+      "magnitud": "9.6",
+      "constelación": "Virgo",
+      "imagen": "https://es.wikipedia.org/wiki/Galaxia_el%C3%ADptica_M87"
+    },
+    {
+      "id": 6,
+      "nombre": "Galaxia del Remolino",
+      "tipo": "galaxia espiral",
+      "distancia": "290 millones de años luz",
+      "magnitud": "9.7",
+      "constelación": "Canes Venatici",
+      "imagen": "https://www.ngenespanol.com/el-espacio/un-brazo-de-la-galaxia-del-remolino-es-fotografiado-por-el-james-webb/"
+    },
+    {
+      "id": 7,
+      "nombre": "Galaxia de las Antenas",
+      "tipo": "galaxias en interacción",
+      "distancia": "70 millones de años luz",
+      "magnitud": "11.0",
+      "constelación": "Corvus",
+      "imagen": "https://www.eso.org/public/spain/images/eso1137a/"
+    },
+    {
+      "id": 8,
+      "nombre": "Galaxia Cartwheel",
+      "tipo": "galaxia anular",
+      "distancia": "500 millones de años luz",
+      "magnitud": "14.2",
+      "constelación": "Sculptor",
+      "imagen": "https://www.nasa.gov/universe/webb-captures-stellar-gymnastics-in-the-cartwheel-galaxy/"
+    },
+    {
+      "id": 9,
+      "nombre": "Galaxia Arp 220",
+      "tipo": "galaxias en interacción",
+      "distancia": "250 millones de años luz",
+      "magnitud": "14.8",
+      "constelación": "Draco",
+      "imagen": "https://es.wikipedia.org/wiki/Arp_220"
+    }
+  ]
+}
